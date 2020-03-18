@@ -1,4 +1,16 @@
 clear
 box
-150 30 300 300 30 300
+100 50 300 300 50 300
+box
+225 450 175 50 400 50
+ident
+torus
+245 60 175 10 175
+rotate
+x 20
+rotate
+y 20
+rotate
+z 10
+apply
 display
